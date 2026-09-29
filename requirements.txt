@@ -1,0 +1,8 @@
+# Install CUDA-enabled PyTorch first, see README
+ultralytics>=8.3.78
+roboflow
+lap
+opencv-python
+matplotlib
+pyyaml
+jupyter

@@ -1,0 +1,22 @@
+# Dataset (downloaded from Roboflow by the notebook)
+car-detection-1/
+
+# Last-epoch checkpoint (best.pt is kept)
+runs/vehicle_yolo12n/weights/last.pt
+
+# Large or empty output videos (GitHub warns above 50 MB)
+assets/cars_video_detected.mp4
+runs/video/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
